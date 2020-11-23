@@ -5,6 +5,7 @@ This is the GitHub page for the Detect plugin for Azure DevOps and TFS.
 
 [![Build Status](https://travis-ci.org/blackducksoftware/detect-for-tfs.svg?branch=master)](https://travis-ci.org/blackducksoftware/detect-for-tfs)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fliuyan707124617%2Fdetect-for-tfs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fliuyan707124617%2Fdetect-for-tfs?ref=badge_shield)
 
 
 ## Where can I get the latest release? ##
@@ -16,3 +17,7 @@ Releases and Source are available under [GitHub releases](https://github.com/bla
 Instructions and examples are available on our [Public Confluence](https://synopsys.atlassian.net/wiki/spaces/INTDOCS/pages/622618/Synopsys+Detect+Extension+for+Azure+DevOps).
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fliuyan707124617%2Fdetect-for-tfs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fliuyan707124617%2Fdetect-for-tfs?ref=badge_large)
